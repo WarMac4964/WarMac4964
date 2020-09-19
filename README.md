@@ -6,7 +6,7 @@
   
   <h2>About Me:<h2>
   <h3>Languages and Tools that i use</h3>
-  <img src="download.png" alt="Flutter" width="50" height="50">
+  <img src="download.png" alt="Flutter" width="30" height="30">
   
 
     
