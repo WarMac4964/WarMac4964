@@ -1,9 +1,10 @@
-Hi 👋, I'm 
-<h1>Anurag Tyagi.</h1>
+  Hi 👋, I'm 
+  <h1>Anurag Tyagi</h1>.
+  I'm a programmer and a hobbyist photographer, 19 years old and have huge fascination towards Hacking...
 
 
   
-  **About Me:**
+  <h2>About Me:<h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 Flutter, AI & ML
