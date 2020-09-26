@@ -1,14 +1,14 @@
-Hi 👋, I'm 
+### Hi 👋, I'm 
+<br />
+<br />
 
 <h1>Anurag Tyagi</h1>
-  
-<p>I'm a programmer and a hobbyist photographer, 19 years old and have huge fascination towards Hacking...</p>
+I'm a programmer and a hobbyist photographer, 19 years old and have huge fascination towards Hacking...
 
 
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-  
-<h2>About Me:<h2>
+**Talking about Personal Stuffs:**
 
 - 🛠 Currently working with Python and  Flutter;
 - 👨🏻‍💻 looking to collaborate on projecs;
