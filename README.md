@@ -1,6 +1,5 @@
 ### Hi 👋, I'm 
 <br />
-<br />
 
 <h1>Anurag Tyagi</h1>
 I'm a programmer and a hobbyist photographer, 19 years old and have huge fascination towards Hacking...
