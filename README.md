@@ -9,6 +9,12 @@ Hi 👋, I'm
 
   
 <h2>About Me:<h2>
+
+- 🛠 Currently working with Python and  Flutter;
+- 👨🏻‍💻 looking to collaborate on projecs;
+- 💬 Hobbyist Photographer and Videographer
+- ⚡️ Interests in hack
+- 📫 My Blog : <a href="https://www.aranciafilms.com/">Arancia Films</a>
   
 **Languages and Tools that I use**
   
