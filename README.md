@@ -30,6 +30,16 @@ a.k.a WarMac4964. I'm a programmer and a hobbyist photographer, 19 years old and
 <br />
 <br />
 
+**Connect with me:**
+
+<img align="left" alt="aranciafilms.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="Anurag's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Anurag's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Anurag's | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+<br />
+<br />
+
     
 
 **Hobbies and Other Skills**
