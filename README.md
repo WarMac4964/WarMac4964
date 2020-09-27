@@ -40,9 +40,15 @@ a.k.a WarMac4964. I'm a programmer and a hobbyist photographer, 19 years old and
 
 [<img align="left" alt="Arancia Films" width="22px" src="https://www.aranciafilms.com/" />][website]
 [<img align="left" alt="Anurag Tyagi | Twitter" width="22px" src="https://twitter.com/tyagianurag_at" />][twitter]
-[<img align="left" alt="Anurag Tyagi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Anurag Tyagi | LinkedIn" width="22px" src="https://www.linkedin.com/in/anurag-tyagi-395425178/" />][linkedin]
 [<img align="left" alt="Anurag Tyagi | Instagram" width="22px" src="https://www.instagram.com/tyagianurag_at/" />][instagram]
 
 <br />
 
 ![Anurag's Github Stats](https://github-readme-stats.vercel.app/api?username=WarMac4964&show_icons=true&hide_border=true)
+
+<br />
+[website]: https://www.aranciafilms.com/
+[twitter]: https://twitter.com/tyagianurag_at
+[instagram]: https://www.instagram.com/tyagianurag_at/
+[linkedin]: https://www.linkedin.com/in/anurag-tyagi-395425178/
