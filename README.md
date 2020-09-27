@@ -17,11 +17,20 @@ a.k.a WarMac4964. I'm a programmer and a hobbyist photographer, 19 years old and
   
 **Languages and Tools that I use**
   
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="40" src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4"></code> 
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="26" src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4"></code> 
+<br />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 
     
@@ -29,26 +38,14 @@ a.k.a WarMac4964. I'm a programmer and a hobbyist photographer, 19 years old and
 **Hobbies and Other Skills**
 
 
-<code><img height="40" src="https://avatars3.githubusercontent.com/u/4542585?s=200&v=4"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg"></code>
+<code><img height="26" src="https://avatars3.githubusercontent.com/u/4542585?s=200&v=4"></code>
+<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"></code>
+<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg"></code>
 
-<br/>
-<br/>
-
-### Connect with me:
-
-[<img align="left" alt="Arancia Films" width="22px" src="https://www.aranciafilms.com/" />][website]
-[<img align="left" alt="Anurag Tyagi | Twitter" width="22px" src="https://twitter.com/tyagianurag_at" />][twitter]
-[<img align="left" alt="Anurag Tyagi | LinkedIn" width="22px" src="https://www.linkedin.com/in/anurag-tyagi-395425178/" />][linkedin]
-[<img align="left" alt="Anurag Tyagi | Instagram" width="22px" src="https://www.instagram.com/tyagianurag_at/" />][instagram]
 
 <br />
 
 ![Anurag's Github Stats](https://github-readme-stats.vercel.app/api?username=WarMac4964&show_icons=true&hide_border=true)
 
 <br />
-[website]: https://www.aranciafilms.com/
-[twitter]: https://twitter.com/tyagianurag_at
-[instagram]: https://www.instagram.com/tyagianurag_at/
-[linkedin]: https://www.linkedin.com/in/anurag-tyagi-395425178/
+
