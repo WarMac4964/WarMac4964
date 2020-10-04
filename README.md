@@ -60,3 +60,7 @@ a.k.a WarMac4964. I'm a programmer and a hobbyist photographer, 19 years old and
 
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarMac4964&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+
+
+<br>
