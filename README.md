@@ -1,6 +1,7 @@
 ### Hi 👋, I'm 
 <h1>Anurag Tyagi</h1>
 a.k.a WarMac4964. I'm a programmer and a hobbyist photographer, 19 years old and have huge fascination towards Hacking...
+<br/>
 
 
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
