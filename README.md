@@ -1,74 +1,50 @@
-### Hi 👋, I'm 
-<h1>Anurag Tyagi</h1>
-a.k.a WarMac4964. I'm a programmer and a hobbyist photographer, 19 years old and have huge fascination towards Hacking...
-<br>
-<br>
-<br>
-<br>
+<p align="center">
+  <b><samp>Hi 👋, I'm</samp></b> 
+  <br>
+  <h1 align="center"><samp>Anurag Tyagi</samp></h1>
+ </p>
+<p align="center">
+  <samp>a.k.a WarMac4964. I'm a Flutter Developer and a hobbyist photographer from Delhi, India</samp>     </p>
+  <br>
+  <br>
+  <p align="center"><img  height="250" width="500" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" /></p>
+  <br> 
+  <br>
+  <br>
+ <a href="https://github.com/WarMac4964/github-readme-streak-stats">
+    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=WarMac4964&theme=dark&hide_border=true&background=0D1117&stroke=0000"/></p>
+  </a>
+  <br/>
 
+   <p align="center"><a href="https://github.com/WarMac4964/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=WarMac4964&title_color=FA8B00&bg_color=0D1117&hide_border=true&text_color=9D9D9D&hide_rank=true&icon_color=FA8B00&show_icons=true&hide_title=true&line_height=30&count_private=true"/>
+ </a></p>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
-
-**Talking about Personal Stuffs:**
-
-- 🛠 Currently working with Python and  Flutter;
-- 👨🏻‍💻 looking to collaborate on projecs;
-- 💬 Hobbyist Photographer and Videographer
-- ⚡️ Interests in hack
-- 📫 My Blog : <a href="https://www.aranciafilms.com/">Arancia Films</a>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+  <br>
+  <br>
+  <br>
   
-**Languages and Tools that I use**
+  <p align="center"><b><samp>Languages and Tools that I use</samp></b></p>
+
+  <p align="center" float="left">
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   
-<img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-<img align="left" height="26" src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4">
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br>
-<br>
-
-**Connect with me:**
-
-<a href="https://twitter.com/tyagianurag_at" ><img align="left" alt="Anurag's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/anurag-tyagi-395425178/" ><img align="left" alt="Anurag's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/tyagianurag_at/" ><img align="left" alt="Anurag's | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-
-<br >
-<br >
-
-    
-
-**Hobbies and Other Skills**
-
-
-<code><img align="left" height="26" src="https://avatars3.githubusercontent.com/u/4542585?s=200&v=4"></code>
-<code><img align="left" height="26" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"></code>
-<code><img align="left" height="26" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg"></code>
-
-
-<br >
-
-![Anurag's Github Stats](https://github-readme-stats.vercel.app/api?username=WarMac4964&show_icons=true&hide_border=true)
-
-<br >
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarMac4964&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
-
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WarMac4964&" alt="mukulup" /></p>
+</p>
+ <p align="center"><b><samp>Currently Learning</samp></b></p>
+  <p align="center" float="left">
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  
+</p>
+  <br>
+  <br>
+  <br>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=WarMac4964&theme=react-dark&bg_color=003140&hide_border=true" width="100%"/>
+</p>
