@@ -30,9 +30,11 @@
   </a>
   <br/>
 
-   <p align="center"><a href="https://github.com/WarMac4964/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=WarMac4964&title_color=FA8B00&bg_color=0D1117&hide_border=true&text_color=9D9D9D&hide_rank=true&icon_color=FA8B00&show_icons=true&hide_title=true&line_height=30&count_private=true"/>
- </a></p>
+    [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WarMac4964&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/WarMac4964/github-readme-stats#gh-dark-mode-only)
+
+    [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=WarMac4964&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/WarMac4964/github-readme-stats#gh-light-mode-only)
+
+</a></p>
 
   <br>
   <br>
