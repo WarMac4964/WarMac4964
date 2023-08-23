@@ -76,7 +76,7 @@
   <br>
   <br>
   <br>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=WarMac4964&theme=react-dark&bg_color=003140&hide_border=true" width="100%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=WarMac4964&theme=flat&column=7&margin-w=10" alt="logo" height="160" />
-</p>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64bacf8e8a29ad56faa0f1c8?variant=dark" alt="roadmap.sh"/></a>
+<br>
+<br>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64bacf8e8a29ad56faa0f1c8?variant=dark" alt="roadmap.sh"/></a>
