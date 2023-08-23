@@ -75,8 +75,8 @@
 </p>
   <br>
   <br>
-  <br>
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64bacf8e8a29ad56faa0f1c8?variant=dark" alt="roadmap.sh"/></a>
+  <be>
+<center><a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64bacf8e8a29ad56faa0f1c8?variant=dark" alt="roadmap.sh"/></a></center>
 <br>
 <br>
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64bacf8e8a29ad56faa0f1c8?variant=dark" alt="roadmap.sh"/></a>
+<center><a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64bacf8e8a29ad56faa0f1c8?variant=dark" alt="roadmap.sh"/></a></center>
