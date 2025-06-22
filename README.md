@@ -12,6 +12,8 @@
   <br>
   <h1 align="center"><samp>Anurag Tyagi</samp></h1>
 </p>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4808904" style='border:none;'></iframe>
+
 <p align="center">
   <samp>a.k.a WarMac4964. I'm a Flutter Developer and a hobbyist photographer from Delhi, India</samp>     </p>
   <br>
