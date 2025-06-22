@@ -12,8 +12,9 @@
   <br>
   <h1 align="center"><samp>Anurag Tyagi</samp></h1>
 </p>
+<p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/WinterSoldier005.png" alt="WinterSoldier005"/>
-
+</p>
 <p align="center">
   <samp>a.k.a WarMac4964. I'm a Flutter Developer and a hobbyist photographer from Delhi, India</samp>     </p>
   <br>
